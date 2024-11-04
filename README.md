@@ -18,3 +18,7 @@ PUT http://localhost:3000/api/blogs/update-blog
 DELETE http://localhost:3000/api/blogs/delete-blog
 
 Each route should return the corresponding success message.
+
+
+![image](https://github.com/user-attachments/assets/1b231c67-a433-4309-afa7-1f342028e845)
+
